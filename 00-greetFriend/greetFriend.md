@@ -12,6 +12,7 @@ THEN: We output "Hello, Albert!"
 
 ```js
 function greetFriend(name) {
+  console.log("Hello " , name)
   // Insert code here;
 }
 
